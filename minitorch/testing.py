@@ -144,3 +144,4 @@ class MathTestVariable(MathTest):
     @staticmethod
     def lt2(a, b):
         return a + 1.2 < b
+
